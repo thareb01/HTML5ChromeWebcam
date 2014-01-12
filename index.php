@@ -17,7 +17,5 @@
 			<input type="button" id="capture" value="Capture" />
 		</form>
 		
-		<!-- Update 2 -->
-		
 	</body>
 </html>
