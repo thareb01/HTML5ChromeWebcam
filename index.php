@@ -17,5 +17,7 @@
 			<input type="button" id="capture" value="Capture" />
 		</form>
 		
+		<!-- GitHub Test -->
+		
 	</body>
 </html>
